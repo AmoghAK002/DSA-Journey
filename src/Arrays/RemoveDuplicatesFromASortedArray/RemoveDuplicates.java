@@ -1,5 +1,5 @@
 package Arrays.RemoveDuplicatesFromASortedArray;
-
+//two pointer approach
 public class RemoveDuplicates {
     public static int  removeDuplicates(int[] nums) {
         if(nums == null || nums.length == 0) return 0;
