@@ -346,4 +346,4 @@ Think of Problem 13, Contains Duplicate, but replace the equality check with a s
 
 ### Commit Message
 
-`Brute Force`
+`Brute Force approach`
