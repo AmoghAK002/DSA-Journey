@@ -1,6 +1,6 @@
 package Arrays.TwoSum;
 import java.util.*;
-public class twoSum {
+public class twoSumBruteForce {
     public static int[] TwoSum(int[] nums, int target) {
         for(int i = 0 ; i < nums.length - 1; i++){
             for(int j = i + 1 ; j < nums.length ; j++){
